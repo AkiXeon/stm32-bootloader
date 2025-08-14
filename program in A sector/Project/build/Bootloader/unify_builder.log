@@ -1,0 +1,56 @@
+[2025-07-28 21:00:45]	[info] incremental build: 41 source files changed
+These source files will be recompiled
+---
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\croutine.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\event_groups.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\list.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\portable\MemMang\heap_4.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\portable\RVDS\ARM_CM3\port.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\queue.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\tasks.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\FreeRTOS\timers.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\CMSIS\core_cm3.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\CMSIS\startup\startup_stm32f10x_ld.s': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\CMSIS\stm32f10x_it.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\CMSIS\system_stm32f10x.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\misc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_adc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_bkp.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_can.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_cec.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_crc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_dac.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_dbgmcu.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_dma.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_exti.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_flash.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_fsmc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_gpio.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_i2c.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_iwdg.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_pwr.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_rcc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_rtc.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_sdio.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_spi.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_tim.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_usart.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Library\FWLIB\src\stm32f10x_wwdg.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Peripheral\00_Periph_Template.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\Peripheral\01_Periph_UART1.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\SYSTEM\delay\delay.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\SYSTEM\sys\sys.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\User\main.c': object (.o) file not exist
+'c:\Users\Pluto\Desktop\temp\User\taskManage.c': object (.o) file not exist
+
+[2025-07-28 21:00:46]	[done]
+	build successfully !
+
+[2025-07-29 15:17:26]	[info] incremental build: 1 source files changed
+These source files will be recompiled
+---
+'c:\Users\Pluto\Desktop\temp\User\main.c': source file has been changed.
+
+[2025-07-29 15:17:27]	[done]
+	build successfully !
+
