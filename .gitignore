@@ -1,0 +1,13 @@
+# 通用忽略规则
+*.o
+*.d
+*.crf
+*.htm
+*.lst
+*.map
+*.bak
+*.uvguix.*
+*.dep
+# 系统文件
+.DS_Store
+Thumbs.db
