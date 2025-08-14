@@ -12,7 +12,7 @@
 ```
 
 ## 🧩 Bootloader 程序说明
-
+(keil工程文件存在main/USER/)
 内部 Flash 划分为四个区域：
 ```shell
 B (20KB) → A (28KB) → C (15KB) → D (1KB)
@@ -28,10 +28,12 @@ A区：存放用户应用程序 其余分区暂未使用(main.h 中定义)
 - [7] 系统重启
 
 ## 💻 应用程序示例
+(keil工程文件存在program in A sector/Project/)
 位于 program in A sector/ 目录 已经配置写入地址，可直接烧写
 同时本仓库提供可直接烧写的测试用 .bin 文件
 
 ## 📡 串口通信示例
+(keil工程文件存在串口示例程序/Project/)
 位于 串口示例程序/ 目录：存放独立串口功能供学习
 核心功能：
 USART 空闲中断处理
